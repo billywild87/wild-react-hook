@@ -1,0 +1,5 @@
+node_modules
+tests
+lib
+jest.config.base.ts
+jest.config.node.ts

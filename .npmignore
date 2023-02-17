@@ -1,0 +1,13 @@
+src 
+node_modules
+tsconfig.json 
+.eslintrc
+.gitignore
+.eslintignore
+tests
+jest.config.ts
+jest.config.base
+jest.config.node.ts
+.prettierrc
+.prettierignore
+tests
